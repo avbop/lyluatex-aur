@@ -1,8 +1,8 @@
 # Maintainer: Br Anthony VanBerkum <anthonyvbop AT gmail DOT com>
 pkgbase=lyluatex-git
 pkgname=$pkgbase
-pkgver=r43.5dcb34b
-pkgrel=1
+pkgver=r654.1008ec7
+pkgrel=2
 pkgdesc="Include lilypond scores in LuaLaTeX files."
 url=https://github.com/jperon/lyluatex
 arch=("any")
