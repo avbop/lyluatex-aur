@@ -3,7 +3,7 @@
 pkgbase=lyluatex-git
 pkgname=$pkgbase
 pkgver=r654.1008ec7
-pkgrel=3
+pkgrel=4
 pkgdesc="Include lilypond scores in LuaLaTeX files."
 url=https://github.com/jperon/lyluatex
 arch=("any")
