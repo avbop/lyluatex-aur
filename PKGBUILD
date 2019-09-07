@@ -1,4 +1,5 @@
-# Maintainer: Br Anthony VanBerkum <anthonyvbop AT gmail DOT com>
+# Maintainer: Anthony VanBerkum <anthonyvbop AT gmail DOT com>
+# https://github.com/avbop/lyluatex-aur
 pkgbase=lyluatex-git
 pkgname=$pkgbase
 pkgver=r654.1008ec7
